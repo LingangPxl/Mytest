@@ -1,0 +1,3 @@
+[submodule "lib/sonlib.txt"]
+	path = lib/sonlib.txt
+	url = git@github.com:LingangPxl/TestSonModule.git
